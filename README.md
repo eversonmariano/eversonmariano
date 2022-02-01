@@ -10,8 +10,8 @@
   <img align="center" alt="Ever-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ever-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ever-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ever-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/dart-original.svg">
-  <img align="center" alt="Ever-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/flutter-original.svg">
+  <img align="center" alt="Ever-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/dart-original.svg">
+  <img align="center" alt="Ever-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/flutter-original.svg">
  
   
 </div>
