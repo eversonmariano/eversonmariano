@@ -1,4 +1,4 @@
-## E aí, beleza? Meu nome é Everson. Loading...
+## E aí, beleza? Meu nome é Everson.
 <div align="center">
   <a href="https://github.com/eversonmariano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eversonmariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
