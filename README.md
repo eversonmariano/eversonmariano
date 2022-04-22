@@ -1,4 +1,4 @@
-## Beleza? Seja bem vindo(a)! Meu nome é Everson Mariano. Sou estudante do Engenharia de Computação - IFPB. 
+## Beleza? <\br> Seja bem vindo(a)! <\br> Meu nome é Everson Mariano. Sou estudante do Engenharia de Computação - IFPB. 
 
 <div align="center">
   <a href="https://github.com/eversonmariano">
