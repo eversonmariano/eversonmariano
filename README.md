@@ -26,7 +26,7 @@
 
 * Meu nome é Everson Batista Mariano, sou um Desenvolvedor Back-End e futuro Analista de Dados. 
 
-* Meu objetivo é me tornar um excelente desenvolvedor back-end e cientista de dados com Machine Learning e Deep Learning, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!
+* Meu objetivo é me tornar um excelente desenvolvedor back-end e cientista de dados com Machine e Deep Learning, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online,  novos projetos e repositórios!
 
 ## Principais habilidades :fireworks:
 
@@ -44,7 +44,7 @@
 
 ## Experiências :computer:
 
-* Atualmente sou Desenvolvedor Back-End, atuando com Java, Spring Framework construindo projetos para integrar meu portfólio, API REST, microsserviços.
+* Atualmente sou Desenvolvedor Back-End em busca de oportunidades, atuando com Java e Python e construindo projetos para integrar meu portfólio.
 
 ## Principais Tecnologias ⚡
 
