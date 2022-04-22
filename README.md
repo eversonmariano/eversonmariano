@@ -6,7 +6,7 @@
   
   
 <span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/spring.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/spring-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/angular-icon.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/react.svg"></span>
