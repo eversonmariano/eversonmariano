@@ -1,4 +1,4 @@
-## Beleza? Seja bem vindo(a)! Meu nome é Everson B Mariano. Graduando em Engenharia de Computação. 
+## Beleza? Seja bem vindo(a)! Meu nome é Everson Mariano. Sou estudante do Engenharia de Computação - IFPB. 
 
 <div align="center">
   <a href="https://github.com/eversonmariano">
