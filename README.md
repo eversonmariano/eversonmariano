@@ -1,39 +1,71 @@
-## Beleza? <br/> Seja bem vindo(a)! <br/> Meu nome é Everson Mariano. Sou estudante do Engenharia de Computação - IFPB. 
+# Everson Batista Mariano
+### Desenvolvedor Back-End 
 
-<div align="center">
-  <a href="https://github.com/eversonmariano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eversonmariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversonmariano&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
+[![Linkedin Badge](https://img.shields.io/badge/-eversonmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano//)](https://www.linkedin.com/in/everson-mariano/) [![Gmail Badge](https://img.shields.io/badge/-marianocomputacao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianocomputacao@gmail.com)](mailto:marianocomputacao@gmail.com)
+---
   
   
-<h3 align="left">Languages and Tools:</h3>
-  
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
-  
-  </p>
- 
-  
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href = "mailto:mariano.computacao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/everson-mariano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
-</div>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/spring.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/angular-icon.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/react.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/python.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/django-icon.svg"></span>
+<span><img height="30px" src="https://cdn.svgporn.com/logos/dart.svg"></span>
+<span><img height="30px" src="https://cdn.svgporn.com/logos/flutter.svg"></span>
+<span><img height="30px" src="https://cdn.svgporn.com/logos/mysql-icon.svg"></span>
+<span><img height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/html-5.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/css-3.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/git.svg"></span>
 
+
+## Olá, mundo! 👋
+
+* Meu nome é Everson Batista Mariano, sou um Desenvolvedor Back-End e futuro Analista de Dados. 
+
+* Meu objetivo é me tornar um excelente desenvolvedor back-end e cientista de dados com Machine Learning e Deep Learning, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!
+
+## Principais habilidades :fireworks:
+
+* Desenvolvimento Back-End;
+* Criação de API REST;
+* Arquitetura REST e de microsserviços;
+* Análise de dados;
+* Extração, transformação e visualização de dados;
+
+
+## Acadêmico 👨‍💻
+
+
+* **Bacharelando em Engenharia de Computação** | **Instituto Federal da Paraíba (IFPB)** (2017 - 2023).
+
+## Experiências :computer:
+
+* Atualmente sou Desenvolvedor Back-End, atuando com Java, Spring Framework construindo projetos para integrar meu portfólio, API REST, microsserviços.
+
+## Principais Tecnologias ⚡
+
+* Java 8, 11 
+* Javascript ES6
+* Python 3
+* Docker
+* Docker-compose
+* Bancos de dados Relacionais: Microsoft SQL Server, MySQL
+* Bancos de dados NoSQL: MongoDB
+
+## Principais Frameworks :hammer: 
+
+* Spring Framework (Boot, Data JPA, Cloud e Security)
+
+## Principais bibliotecas :closed_book:
+
+* Lombok (Java)
+* Pandas
+* Matplotlib
+* NumPy
+* Scikit-Learn
+* Spring Data JPA
+* OpenCV
