@@ -11,7 +11,7 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/angular-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/react.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/python.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/django-icon.svg"></span>
+
 <span><img height="35px" src="https://cdn.svgporn.com/logos/dart.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/flutter.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/mysql-icon.svg"></span>
