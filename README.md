@@ -43,7 +43,7 @@
 
 ## Experiências :computer:
 
-* Atualmente sou Desenvolvedor Back-End em busca de oportunidades, atuando com Java e Python e construindo projetos para integrar meu portfólio.
+* Atualmente sou Desenvolvedor Back-End atuando com Java e Python e construindo projetos para integrar meu portfólio.
 
 ## Principais Tecnologias ⚡
 
