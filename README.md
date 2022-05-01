@@ -1,7 +1,7 @@
 # Everson Batista Mariano
 ### Desenvolvedor Back-End 
 
-[![Linkedin Badge](https://img.shields.io/badge/-eversonmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano//)](https://www.linkedin.com/in/everson-mariano/) [![Gmail Badge](https://img.shields.io/badge/-marianocomputacao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marianocomputacao@gmail.com)](mailto:marianocomputacao@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-eversonmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano//)](https://www.linkedin.com/in/everson-mariano/) [![Gmail Badge](https://img.shields.io/badge/-mariano.computacao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariano.computacao@gmail.com)](mailto:mariano.computacao@gmail.com)
 ---
   
   
