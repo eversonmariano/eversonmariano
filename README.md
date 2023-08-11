@@ -1,5 +1,5 @@
 # Everson Batista Mariano
-### Desenvolvedor Back-End 
+### DevOps |Back-End 
 
 [![Linkedin Badge](https://img.shields.io/badge/-eversonmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano//)](https://www.linkedin.com/in/everson-mariano/) [![Gmail Badge](https://img.shields.io/badge/-mariano.computacao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariano.computacao@gmail.com)](mailto:mariano.computacao@gmail.com)
 ---
@@ -23,11 +23,12 @@
 
 ## Olá, mundo! 👋
 
-* Meu nome é Everson Batista Mariano, sou um Desenvolvedor Back-End e futuro Analista de Dados. 
+* Meu nome é Everson Batista Mariano, sou DevOps e desenvolvedor Back-End. 
 
-* Meu objetivo é me tornar um excelente desenvolvedor back-end e cientista de dados com Machine e Deep Learning, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online,  novos projetos e repositórios!
+* 
 
 ## Principais habilidades :fireworks:
+
 
 * Desenvolvimento Back-End;
 * Criação de API REST;
