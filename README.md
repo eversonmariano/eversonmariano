@@ -35,11 +35,10 @@
 
 ## Principais habilidades :fireworks:
 
-
+* DevOps;
 * Desenvolvimento Back-End;
 * Criação de API REST;
 * Arquitetura REST e de microsserviços;
-* Análise de dados;
 * Extração, transformação e visualização de dados;
 
 
