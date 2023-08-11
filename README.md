@@ -1,21 +1,24 @@
 # Everson Batista Mariano
-### DevOps |Back-End 
+### DevOps | SRE | Observabilidade | Back-End 
 
 [![Linkedin Badge](https://img.shields.io/badge/-eversonmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano//)](https://www.linkedin.com/in/everson-mariano/) [![Gmail Badge](https://img.shields.io/badge/-mariano.computacao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariano.computacao@gmail.com)](mailto:mariano.computacao@gmail.com)
 ---
+
   
   
+<span><img height="40px" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"></span>
+
 <span><img height="40px" src="https://cdn.svgporn.com/logos/aws.svg"></span>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/kubernetes.svg"></span>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/docker-icon.svg"></span>
+
 <span><img height="40px" src="https://cdn.svgporn.com/logos/terraform-icon.svg"></span>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/ansible.svg"></span>
+
 <span><img height="40px" src="https://cdn.svgporn.com/logos/vagrant-icon.svg"></span>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/zabbix.svg"></span>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/datadog.svg"></span>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/helm.svg"></span>
-
-
 
 <span><img height="40px" src="https://cdn.svgporn.com/logos/java.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/spring-icon.svg"></span>
@@ -31,7 +34,6 @@
 
 * Meu nome é Everson Batista Mariano, sou DevOps e desenvolvedor Back-End. 
 
-* 
 
 ## Principais habilidades :fireworks:
 
@@ -39,8 +41,6 @@
 * Desenvolvimento Back-End;
 * Criação de API REST;
 * Arquitetura REST e de microsserviços;
-* Extração, transformação e visualização de dados;
-
 
 ## Acadêmico 👨‍💻
 
@@ -53,6 +53,12 @@
 
 ## Principais Tecnologias ⚡
 
+* Kubernetes
+* Terraform
+* Ansible
+* Zabbix
+* Vagrant
+* Datadog
 * Java 8, 11 
 * Javascript ES6
 * Python 3
@@ -65,12 +71,4 @@
 
 * Spring Framework (Boot, Data JPA, Cloud e Security)
 
-## Principais bibliotecas :closed_book:
 
-* Lombok (Java)
-* Pandas
-* Matplotlib
-* NumPy
-* Scikit-Learn
-* Spring Data JPA
-* OpenCV
