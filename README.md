@@ -66,9 +66,3 @@
 * Docker-compose
 * Bancos de dados Relacionais: Microsoft SQL Server, MySQL
 * Bancos de dados NoSQL: MongoDB
-
-## Principais Frameworks :hammer: 
-
-* Spring Framework (Boot, Data JPA, Cloud e Security)
-
-
