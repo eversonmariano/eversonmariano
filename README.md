@@ -13,6 +13,9 @@
 <span><img height="40px" src="https://cdn.svgporn.com/logos/vagrant-icon.svg"></span>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/zabbix.svg"></span>
 <span><img height="40px" src="https://cdn.svgporn.com/logos/datadog.svg"></span>
+<span><img height="40px" src="https://cdn.svgporn.com/logos/helm.svg"></span>
+
+
 
 <span><img height="40px" src="https://cdn.svgporn.com/logos/java.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/spring-icon.svg"></span>
