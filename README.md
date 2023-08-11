@@ -5,19 +5,22 @@
 ---
   
   
+<span><img height="40px" src="https://cdn.svgporn.com/logos/aws.svg"></span>
+<span><img height="40px" src="https://cdn.svgporn.com/logos/kubernetes.svg"></span>
+<span><img height="40px" src="https://cdn.svgporn.com/logos/docker-icon.svg"></span>
+<span><img height="40px" src="https://cdn.svgporn.com/logos/terraform-icon.svg"></span>
+<span><img height="40px" src="https://cdn.svgporn.com/logos/ansible.svg"></span>
+<span><img height="40px" src="https://cdn.svgporn.com/logos/vagrant-icon.svg"></span>
+<span><img height="40px" src="https://cdn.svgporn.com/logos/zabbix.svg"></span>
+<span><img height="40px" src="https://cdn.svgporn.com/logos/datadog.svg"></span>
+
 <span><img height="40px" src="https://cdn.svgporn.com/logos/java.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/spring-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/angular-icon.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/react.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/python.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/dart.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/flutter.svg"></span>
+
 <span><img height="35px" src="https://cdn.svgporn.com/logos/mysql-icon.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/docker-icon.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg"></span>
 
 
