@@ -34,7 +34,7 @@
 
 ## Olá, mundo! 👋
 
-* Meu nome é Everson, Desenvolvedor Back-End e DevOps.
+* Meu nome é Everson, atualmente atuo como Desenvolvedor Back-End e DevOps.
 
 **AWS Certified Cloud Practitioner**
 
