@@ -8,6 +8,7 @@
 
 <span><img height="100px" src="https://cdn.svgporn.com/logos/aws.svg"></span>
 <span><img height="60px" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-2.png"></span>
+
 <span><img height="60px" src="https://cdn.svgporn.com/logos/kubernetes.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/docker-icon.svg"></span>
 
