@@ -44,6 +44,9 @@
 * Javascript ES6
 * Python 3
 * Kotlin
+* Bancos de dados Relacionais: Microsoft SQL Server, MySQL
+* Bancos de dados NoSQL: MongoDB
+
   
 * Criação de API REST/RESTFUL;
 * SPRING;
@@ -60,7 +63,7 @@
 
 * Atualmente sou Desenvolvedor Back-End atuando com Java e GO(Golang)  e construindo projetos para integrar meu portfólio.
 
-## Principais Tecnologias ⚡
+## Principais Tecnologias DevOps⚡
 
 * Kubernetes
 * Terraform
@@ -69,5 +72,3 @@
 * Vagrant
 * Docker
 * Docker-compose
-* Bancos de dados Relacionais: Microsoft SQL Server, MySQL
-* Bancos de dados NoSQL: MongoDB
