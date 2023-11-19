@@ -34,12 +34,17 @@
 
 ## Olá, mundo! 👋
 
-* Meu nome é Everson Batista Mariano, sou DevOps e desenvolvedor Back-End.
+* Meu nome é Everson, Desenvolvedor Back-End e DevOps.
 
 **AWS Certified Cloud Practitioner**
 
-## Principais habilidades:
-
+## Principais habilidades em Back-End:
+* Java 8, 11
+* GO
+* Javascript ES6
+* Python 3
+* Kotlin
+  
 * Criação de API REST/RESTFUL;
 * SPRING;
 * Andoid;
@@ -62,13 +67,6 @@
 * Ansible
 * Zabbix
 * Vagrant
-
-* Java 8, 11
-* GO
-* Javascript ES6
-* Python 3
-* Kotlin
-  
 * Docker
 * Docker-compose
 * Bancos de dados Relacionais: Microsoft SQL Server, MySQL
