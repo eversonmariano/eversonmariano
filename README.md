@@ -6,7 +6,7 @@
 
 <span><img height="150px" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"></span>
 
-<span><img height="190px" src="https://cdn.svgporn.com/logos/aws.svg"></span>
+<span><img height="120px" src="https://cdn.svgporn.com/logos/aws.svg"></span>
 <span><img height="60px" src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-2.png"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/kubernetes.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/docker-icon.svg"></span>
