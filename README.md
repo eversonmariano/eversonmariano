@@ -5,13 +5,14 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 
 [![Linkedin Badge](https://img.shields.io/badge/-eversonmariano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano//)](https://www.linkedin.com/in/everson-mariano/) [![Gmail Badge](https://img.shields.io/badge/-mariano.computacao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariano.computacao@gmail.com)](mailto:mariano.computacao@gmail.com)
 ---
-<span><img height="60px" src="https://cdn.svgporn.com/logos/c.svg"></span>
-<span><img height="60px" src="https://cdn.svgporn.com/logos/java.svg"></span>
-<span><img height="60px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></span>
-<span><img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"></span>
-<span><img height="60px" src="https://cdn.svgporn.com/logos/go.svg"></span>
-<span><img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
-<span><img height="60px" src="https://cdn.svgporn.com/logos/python.svg"></span>
+
+<span><img height="70px" src="https://cdn.svgporn.com/logos/java.svg"></span>
+<span><img height="70px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></span>
+<span><img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"></span>
+<span><img height="70px" src="https://cdn.svgporn.com/logos/go.svg"></span>
+<span><img height="70px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
+<span><img height="70px" src="https://cdn.svgporn.com/logos/c.svg"></span>
+<span><img height="70px" src="https://cdn.svgporn.com/logos/python.svg"></span>
 
 <span><img height="150px" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"></span>
 
