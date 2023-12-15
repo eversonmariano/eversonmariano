@@ -38,6 +38,7 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 
 ## Principais habilidades em Back-End:
 * Java 8, 11
+* C#
 * GO
 * Javascript ES6
 * Python 3
@@ -47,7 +48,8 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 
   
 * Criação de API REST/RESTFUL;
-* SPRING;
+* .Net;
+* SPRING FRAMEWORKS;
 * Andoid;
 * Arquitetura monolítica e de microsserviços.
 
@@ -59,7 +61,7 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 
 * Estágio em DevOps Concluído;
 
-* Atualmente sou Desenvolvedor Back-End atuando com Java e GO(Golang)  e construindo projetos para integrar meu portfólio.
+* Atualmente sou Desenvolvedor Back-End atuando com Java (Spring Boot) e C# (.Net)  e construindo projetos para integrar meu portfólio.
 
 ## Principais Tecnologias DevOps⚡
 
