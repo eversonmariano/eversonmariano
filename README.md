@@ -7,6 +7,9 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 ---
 <span><img height="60px" src="https://cdn.svgporn.com/logos/c.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/java.svg"></span>
+<span><img height="60px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></span>
+<span><img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"></span>
+
 <span><img height="60px" src="https://cdn.svgporn.com/logos/go.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/python.svg"></span>
