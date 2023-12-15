@@ -11,7 +11,6 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 <span><img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"></span>
 <span><img height="70px" src="https://cdn.svgporn.com/logos/go.svg"></span>
 <span><img height="70px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
-<span><img height="70px" src="https://cdn.svgporn.com/logos/c.svg"></span>
 <span><img height="70px" src="https://cdn.svgporn.com/logos/python.svg"></span>
 
 <span><img height="150px" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"></span>
