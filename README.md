@@ -50,7 +50,7 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 
 * Estágio em DevOps Concluído;
 
-* Atualmente sou Desenvolvedor Back-End atuando com Java (Spring Boot) e C# (.Net)  e construindo projetos para integrar meu portfólio.
+* Atualmente sou Desenvolvedor Back-End atuando com Java (Spring Boot) construindo projetos para integrar meu portfólio.
 
 ## Principais Tecnologias DevOps⚡
 
