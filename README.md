@@ -7,11 +7,11 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 ---
 
 <span><img height="70px" src="https://cdn.svgporn.com/logos/java.svg"></span>
-<span><img height="70px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></span>
-<span><img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"></span>
 <span><img height="70px" src="https://cdn.svgporn.com/logos/go.svg"></span>
 <span><img height="70px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
 <span><img height="70px" src="https://cdn.svgporn.com/logos/python.svg"></span>
+<span><img height="60px" src="https://cdn.svgporn.com/logos/mysql-icon.svg"></span>
+<span><img height="60px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
 
 <span><img height="150px" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png"></span>
 
@@ -24,21 +24,11 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 <span><img height="60px" src="https://cdn.svgporn.com/logos/terraform-icon.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/ansible.svg"></span>
 
-<span><img height="60px" src="https://cdn.svgporn.com/logos/vagrant-icon.svg"></span>
-<span><img height="60px" src="https://cdn.svgporn.com/logos/zabbix.svg"></span>
-<span><img height="60px" src="https://cdn.svgporn.com/logos/helm.svg"></span>
-
-
-
-<span><img height="60px" src="https://cdn.svgporn.com/logos/mysql-icon.svg"></span>
-<span><img height="60px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
-
 <span><img height="60px" src="https://cdn.svgporn.com/logos/git.svg"></span>
 
 
 ## Principais habilidades em Back-End:
-* Java 8, 11
-* C#
+* Java 8, 11, 17, 21
 * GO
 * Javascript ES6
 * Python 3
@@ -48,7 +38,6 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 
   
 * Criação de API REST/RESTFUL;
-* .Net;
 * SPRING FRAMEWORKS;
 * Andoid;
 * Arquitetura monolítica e de microsserviços.
