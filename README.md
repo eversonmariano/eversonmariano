@@ -10,7 +10,6 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
 <span><img height="70px" src="https://cdn.svgporn.com/logos/go.svg"></span>
 <span><img height="70px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/kotlin.svg"></span>
-
 <span><img height="70px" src="https://cdn.svgporn.com/logos/python.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/mysql-icon.svg"></span>
 <span><img height="60px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
