@@ -14,7 +14,7 @@ Meu nome é **Everson**! &#128021;
         <img src="https://img.shields.io/badge/YAHOO-450595?&style=for-the-badge&logo=YAHOO&logoColor=white&link=mailto:eversonmariano@yahoo.com.br">
     </a>
     &nbsp;&nbsp;
-    <a href="[https://www.linkedin.com/in/eversonmariano/](https://www.linkedin.com/in/everson-mariano/)">
+    <a href="https://www.linkedin.com/in/eversonmariano/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano/">
     </a>
      &nbsp;&nbsp;
