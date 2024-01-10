@@ -14,9 +14,8 @@ Meu nome é **Everson**! &#128021;
         <img src="https://img.shields.io/badge/YAHOO-450595?&style=for-the-badge&logo=YAHOO&logoColor=white&link=mailto:eversonmariano@yahoo.com.br">
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/eversonmariano">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano">
-    </a>
+     <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano/" alt="LinkedIn"/></a>
      &nbsp;&nbsp;
     <a href="https://api.whatsapp.com/send?phone=5583988585219&text=Blz,%20Everson??">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
