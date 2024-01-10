@@ -60,7 +60,6 @@ Meu nome é **Everson**! &#128021;
   
 * Criação de API REST/RESTFUL;
 * SPRING FRAMEWORKS;
-* Andoid;
 * Arquitetura monolítica e de microsserviços.
 
 
