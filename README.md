@@ -26,7 +26,7 @@ Meu nome é **Everson**, atualmente atuo como Desenvolvedor Back-End e DevOps.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="35" src="https://icons8.com.br/icon/8rKdRqZFLurS/mongodb-a-cross-platform-document-oriented-database-program">
+    <img height="35" src="https://icons8.com.br/icon/74402/mongodb">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="35" src="https://cdn.svgporn.com/logos/mysql-icon.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
