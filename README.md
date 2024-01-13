@@ -57,7 +57,7 @@ Meu nome é **Everson**! &#128021;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeversonmariano&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eversonmariano)](https://github.com/eversonmariano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eversonmariano&hide=html&layout=compact)](https://github.com/eversonmariano/github-readme-stats)
 
 ## Principais habilidades em Back-End:
   
