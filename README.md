@@ -55,6 +55,7 @@ Meu nome é **Everson**! &#128021;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eversonmariano)](https://github.com/eversonmariano/github-readme-stats)
 
 ## Principais habilidades em Back-End:
   
