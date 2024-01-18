@@ -3,7 +3,7 @@
 Meu nome é **Everson**! &#128021;
 
 
-## Acadêmico &#129333;
+## Formação &#129333;
 
 **Engenheiro de Computação** | **Instituto Federal da Paraíba (IFPB)**
 
