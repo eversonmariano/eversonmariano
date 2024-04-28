@@ -55,21 +55,4 @@ Meu nome é **Everson**! &#128021;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Principais habilidades em Back-End:
-  
-* Criação de API REST/RESTFUL;
-* SPRING FRAMEWORKS;
-* DJANGO;
-* Arquitetura monolítica e de microsserviços;
-* gRCP.
-
-
-## Principais Tecnologias DevOps⚡
-
-* Kubernetes
-* Terraform
-* Ansible
-* Zabbix
-* Vagrant
-* Docker
 
