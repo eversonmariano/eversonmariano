@@ -3,9 +3,9 @@
 Meu nome é **Everson**! &#128021;
 
 
-## Formação &#129333;
+### Formação &#129333;
 
-**Engenheiro de Computação - 2023** | **Instituto Federal da Paraíba (IFPB)**
+### Engenheiro de Computação (Ago/2017 - Dez/2023)  | Instituto Federal da Paraíba (IFPB)
 
 
 <p align="center">
