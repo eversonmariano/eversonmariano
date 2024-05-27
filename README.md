@@ -15,7 +15,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/everson-mariano/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-mariano/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/everson-m/">
     </a>
     &nbsp;&nbsp;        
     <a href="https://api.whatsapp.com/send?phone=5583988585219&text=Blz,%20Everson ?">
